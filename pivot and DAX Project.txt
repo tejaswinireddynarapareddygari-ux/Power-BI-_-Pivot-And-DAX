@@ -1,0 +1,27 @@
+... when you click the right click on x-axis or y-axis in visualization field then you can change sum to average 
+
+.... when we want to replicate the sum of boxes by logic ctrl+c the visual and paste it in new page and click modelling and add new  
+     measure to write formula
+
+....  same do as the previous bar charts  y-axis sales person and x-axis total boxes
+
+.....  If the column in new measures is long then click shift enter we get a new line in DAX
+
+.....  we want to add symbols then click windows + .
+
+IN PAGE 3 :-
+
+Create A New Measure Total Amount and do table for me i want amount per box in the table i have amount and table so i divide
+for this create an new measure which is in modelling & visualize 
+
+PAGE 4 :-
+i want to know the sales in each country using table
+in table changing yes or no to color or symbol
+
+PAGE 5 :- 
+
+Specific Country Total Amount 
+
+PAGE 6 :- 
+Combining both countries 
+
